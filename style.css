@@ -1,0 +1,12 @@
+.unordered-list{font-family: cursive; list-style-type: circle;list-style-position: outside;}
+.ordered-list{
+    list-style-image: url(./asset/free-paper-plane-icon-svgrepo-com.svg);
+    list-style-position: outside;
+    background-color: aqua;
+text-align: right;
+width: 500px;}
+.ingredients{font-size: larger;
+line-height: 50px;}
+header{margin: 100px;padding: 100px;
+font-family: fantasy;}
+.recipe-details{box-shadow: 10px 10px 10px 10px ;padding: 40px;}
